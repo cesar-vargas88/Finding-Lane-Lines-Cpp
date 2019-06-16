@@ -1,9 +1,4 @@
 ﻿  Finding Lane Lines.cpp
-c:\users\varga\source\repos\self driving cars\finding lane lines\finding lane lines\finding lane lines.cpp(45): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
-          with
-          [
-              _Tp=int
-          ]
 c:\users\varga\source\repos\self driving cars\finding lane lines\finding lane lines\finding lane lines.cpp(46): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
           with
           [
@@ -14,7 +9,12 @@ c:\users\varga\source\repos\self driving cars\finding lane lines\finding lane li
           [
               _Tp=int
           ]
-c:\users\varga\source\repos\self driving cars\finding lane lines\finding lane lines\finding lane lines.cpp(50): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+c:\users\varga\source\repos\self driving cars\finding lane lines\finding lane lines\finding lane lines.cpp(48): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\varga\source\repos\self driving cars\finding lane lines\finding lane lines\finding lane lines.cpp(49): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
           with
           [
               _Tp=int
